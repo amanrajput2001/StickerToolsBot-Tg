@@ -1,15 +1,3 @@
-# Sticker Tools Bot [@Sticker_Tools_Bot](https://t.me/Sticker_Tools_Bot)
-
-> A star ⭐ from you means a lot to us!
-
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/StickerToolsBot"><img src="https://telegra.ph/file/0abe9c29410965545218f.png" width="5000"></a></p>
-
-Telegram bot with various Sticker Tools
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-## Usage
-
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StickerToolsBot)
