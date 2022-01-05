@@ -19,20 +19,20 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("♦️ Channel", url="https://t.me/Stjddjjddjd")],
+        [InlineKeyboardButton("📣 Channel", url="https://t.me/Tg_Galaxy")],
         [InlineKeyboardButton(text="🏠 Return Home", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("📣 Channel", url="https://t.me/Tg_Galaxy")
+            InlineKeyboardButton("📣 Channel", url="https://t.me/Galaxy_bots")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
+            InlineKeyboardButton("💢 Help", callback_data="help"),
             InlineKeyboardButton("🆘 About", callback_data="about")
         ],
-        [InlineKeyboardButton("📣 Channel", url="https://t.me/Stdjdjdjkdjjbot")],
-        [InlineKeyboardButton("👥 Group", url="https://t.me/StdjdjdjdjdjdjsChat")],
+        [InlineKeyboardButton("👥 Group",url="https://t.me/Stdjdjdjkdjjbot")],
+        
                               
     ]
 
