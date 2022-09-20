@@ -19,19 +19,19 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("📣 Channel", url="https://t.me/Tg_Galaxy")],
+        [InlineKeyboardButton("♥️ Owner", url="https://t.me/itzamanrajput")],
         [InlineKeyboardButton(text="🏠 Return Home", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("📣 Channel", url="https://t.me/Galaxy_bots")
+            InlineKeyboardButton("♥️ owner", url="https://t.me/itzamanrajput")
         ],
         [
             InlineKeyboardButton("💢 Help", callback_data="help"),
             InlineKeyboardButton("🆘 About", callback_data="about")
         ],
-        [InlineKeyboardButton("👥 Group",url="https://t.me/Stdjdjdjkdjjbot")],
+        [InlineKeyboardButton("♥️ owner",url="https://t.me/itzamanrajput")],
         
                               
     ]
@@ -52,9 +52,8 @@ More features in development. Keep track tar.
     ABOUT = """
 **About This Bot** 
 
-Bot created by @bots
+Bot created by @itzamanrajput
 
-Source Code : [Click Here](https://github.com/Srooyadustries/StickkolsBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
